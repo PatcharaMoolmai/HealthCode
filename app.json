@@ -1,0 +1,12 @@
+{
+  "name": "HealthBar-expo",
+  "displayName": "HealthBar-expo",
+  "expo": {
+    "name": "HealthBar-expo",
+    "slug": "HealthBar-expo",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
