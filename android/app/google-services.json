@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "981195813856",
+    "firebase_url": "https://barcode-application-8b80d.firebaseio.com",
+    "project_id": "barcode-application-8b80d",
+    "storage_bucket": "barcode-application-8b80d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:981195813856:android:718809f081c46714153185",
+        "android_client_info": {
+          "package_name": "com.healthbar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "981195813856-di1rdfip5ei1kuv9sh4ietvvj6uv8mp8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhZpzIFbyqnz6aEzfE4XHz4h8axmf3YVE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "981195813856-di1rdfip5ei1kuv9sh4ietvvj6uv8mp8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:981195813856:android:a9a2504b42feac92153185",
+        "android_client_info": {
+          "package_name": "com.healthbarexpo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "981195813856-di1rdfip5ei1kuv9sh4ietvvj6uv8mp8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhZpzIFbyqnz6aEzfE4XHz4h8axmf3YVE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "981195813856-di1rdfip5ei1kuv9sh4ietvvj6uv8mp8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
